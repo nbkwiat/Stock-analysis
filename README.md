@@ -7,6 +7,7 @@ The goal of this project was to write a script in VBA to analyze specific years 
 From our results we can see that 2017 was a much better year for the majority of stocks. We can also see that ENPH will be the best stock to invest in long term. We can tell this because it had both strong positive returns both in 2017 and 2018. 
 ### Original Code
 In our original code, it wasen't the best way to get the job done but it did go through all the tickers and determine the returns for each one. We can see that using a nested for loop with multiple if-then statements will get the job done but it did take a little bit of time to process (see examples below)
+
 ![image](https://user-images.githubusercontent.com/109539205/185936526-8b8b08bc-9b18-41de-b13c-cc6b5dec4f3b.png)
 ![Green_stocks_2017](https://user-images.githubusercontent.com/109539205/185936608-2850fde0-455c-456f-af8e-93394a1ccfa6.png)
 ![Green_stocks_2018](https://user-images.githubusercontent.com/109539205/185936630-98fde30c-0304-422c-8ba6-c9244994ea9b.png)
